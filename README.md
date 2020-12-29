@@ -14,21 +14,18 @@
 <a href="mailto:marcioc424@gmail.com">
   <img align="left" alt="Marcio's Gmail" height="25px" src="https://img.shields.io/badge/-marcioc424@gmail.com-263238?style=flat-square&labelColor=263238&logo=gmail&logoColor=white&link=mailto:marcioc424@gmail.com" />
 </a>
-
 </div>
 
-<br />
-<br />
-
-I'm just a enthusiast of Full Stack development technologies, and passionate about every web, mobile and embedded systems. 
+<br/>
+<p>I'm just a enthusiast of Full Stack development technologies, and passionate about every web, mobile and embedded systems. </p>
 
 <br />
 
-- 🔭 I'm currently developing a blog about technologies called **[Code Brasileiro](https://codebrasileiro.com.br)**;
+- 📌 I'm currently developing a blog about technologies called **[Code Brasileiro](https://codebrasileiro.com.br)**;
 
 - ✌️ I'm looking to collaborate on **anything free and open source**;
 
-- 🤖 Graduating Computer Engineering;
+- 🎓 Graduating Computer Engineering;
 
 - 👨‍💻 My best projects are [here](#favorites);
 
@@ -64,11 +61,11 @@ I'm just a enthusiast of Full Stack development technologies, and passionate abo
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
 </p>
 
-<h3 id="favorites">Open source projects</h3>
-<table>
+<h3 id="favorites">My best projects</h3>
+<table align="center">
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>:octocat: Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -86,6 +83,5 @@ I'm just a enthusiast of Full Stack development technologies, and passionate abo
   </tbody>
 </table>
 
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mcosta21.mcosta21)
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21"/>
 
