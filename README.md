@@ -1,3 +1,39 @@
+<!-- 
+
+IF YOU ARRIVED HERE, IT'S BECAUSE YOU LIKED SOMETHING BELOW, AND IT'S OK. SO, HERE IS SOME LINKS AND REPOSITORIES THAT I USED TO CREATE MY README. 
+
+SE VOCÊ CHEGOU ATÉ AQUI, É PORQUE VOCÊ GOSTOU DE ALGO ABAIXO, E ESTÁ TUDO BEM. ENTÃO, AQUI ESTÃO ALGUNS LINKS E REPOSITÓRIOS QUE USEI PARA CRIAR MEU README.
+
+### CHECK THIS BEFORE ANYTHING 👉 [Awesome GitHub Profile README](https://awesomegithubprofile.tech/)
+Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-readme</small>
+
+- Banner (https://canvas.com)
+
+- Shields.io (https://simpleicons.org/)
+
+- Github Emoji (https://gist.github.com/rxaviers/7360908)
+
+- Visitors Counter (https://visitor-badge.glitch.me/#docs) 
+  - https://github.com/gargakshit/gargakshit
+  - https://dev.to/ayushi7rawat/create-a-github-profile-readme-in-3-simple-steps-3ofj
+
+- Icons
+  - https://github.com/Spiderpig86/Spiderpig86
+  - https://github.com/abhisheknaiidu/abhisheknaiidu
+  - https://github.com/MacroPower/MacroPower
+  - https://github.com/thmsgbrt/thmsgbrt
+
+- Git Stats (https://github.com/anuraghazra/github-readme-stats)
+
+- Table 
+  - https://github.com/thmsgbrt/thmsgbrt
+  - https://github.com/khalby786/khalby786
+
+- Organization
+  - https://github.com/codestackr/codestackr
+  - https://github.com/iampavangandhi/iampavangandhi
+
+-->
 
 <br />
 <img align="center" src="https://github.com/mcosta21/mcosta21/blob/main/banner-pt-en.gif?raw=true">
@@ -29,7 +65,7 @@
 
 - 👨‍💻 My best projects are [here](#favorites);
 
-- 💬 Ask me about **Java, Node, JavaScript, React** and **Electron**, maybe i can help you and it'll be a pleasure;
+- 💬 Ask me about **Java, Node, JavaScript, React** and **Electron**, maybe I can help you and it'll be a pleasure;
 
 <h3>Already used</h3>
 
@@ -47,7 +83,12 @@
    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
    <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=000" />
+   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759b?style=flat-square&logo=wordpress&logoColor=white" />
+   <img alt="Woo" src="https://img.shields.io/badge/-Woo-96588a?style=flat-square&logo=woo&logoColor=white" />
    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979d?style=flat-square&logo=arduino&logoColor=white" />
+   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+   <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 > Maybe I forgot something, but... 😇
@@ -82,6 +123,27 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mcosta21/starctron?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mcosta21/starctron?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/mcosta21/fire-alarm"><b>Fire alarm</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mcosta21/fire-alarm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mcosta21/fire-alarm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mcosta21/fire-alarm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mcosta21/fire-alarm?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mcosta21/ModeSS"><b>ModeSS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mcosta21/ModeSS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mcosta21/ModeSS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mcosta21/ModeSS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mcosta21/ModeSS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mcosta21/megahack-orama-mobile"><b>Órama Investimentos</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mcosta21/megahack-orama-mobile?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mcosta21/megahack-orama-mobile?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mcosta21/megahack-orama-mobile?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mcosta21/megahack-orama-mobile?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
@@ -93,5 +155,4 @@
 </div>
 
 <hr/>
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21"/>
-
+<small><i>In the file comments has some tips to create your own README.<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21.mcosta21"/></i></small>
