@@ -1,6 +1,6 @@
 
 <br />
-<img align="center" src="./banner.gif">
+<img align="center" src="https://drive.google.com/uc?export=view&id=1PdS4mNFdhPhAFpk9naSwAyYTbXVNjNQD">
 
 <div align="center">
 <a href="https://www.linkedin.com/in/mcosta21/">
@@ -8,16 +8,18 @@
 </a>
 
 <a href="https://www.instagram.com/marcio_costa7/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
+  <img align="left" alt="Marcio's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
 </a>
 
 <a href="mailto:marcioc424@gmail.com">
   <img align="left" alt="Marcio's Gmail" height="25px" src="https://img.shields.io/badge/-marcioc424@gmail.com-263238?style=flat-square&labelColor=263238&logo=gmail&logoColor=white&link=mailto:marcioc424@gmail.com" />
 </a>
+<br/>
 </div>
 
 <br/>
-<p>I'm just a enthusiast of Full Stack development technologies, and passionate about every web, mobile and embedded systems. </p>
+
+<p>I'm just a enthusiast of Full Stack development technologies, and passionate for every thing about web, mobile and embedded systems.</p>
 
 <br />
 
@@ -29,7 +31,7 @@
 
 - 👨‍💻 My best projects are [here](#favorites);
 
-- 💬 Ask me about **Java, Node, JavaScript, React** and **Electron**, maybe i can help and it'll be a pleasure;
+- 💬 Ask me about **Java, Node, JavaScript, React** and **Electron**, maybe i can help you and it'll be a pleasure;
 
 <h3>Already used</h3>
 
@@ -62,7 +64,7 @@
 </p>
 
 <h3 id="favorites">My best projects</h3>
-<table align="center">
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>:octocat: Projects</b></td>
@@ -72,7 +74,7 @@
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <td><a href="https://github.com/mcosta21/starctron"><b>Starctron</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mcosta21/starctron?style=flat-square&labelColor=343b41"/></td>
@@ -83,5 +85,6 @@
   </tbody>
 </table>
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21"/>
+<br/>
+<hr/><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21"/>
 
