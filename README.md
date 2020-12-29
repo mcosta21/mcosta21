@@ -1,6 +1,6 @@
 
 <br />
-<img align="center" src="https://drive.google.com/uc?export=view&id=1PdS4mNFdhPhAFpk9naSwAyYTbXVNjNQD">
+<img align="center" src="https://github.com/mcosta21/mcosta21/blob/main/banner-pt-en.gif?raw=true">
 
 <div align="center">
 <a href="https://www.linkedin.com/in/mcosta21/">
