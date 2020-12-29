@@ -21,8 +21,6 @@
 
 <p>I'm just a enthusiast of Full Stack development technologies, and passionate for every thing about web, mobile and embedded systems.</p>
 
-<br />
-
 - 📌 I'm currently developing a blog about technologies called **[Code Brasileiro](https://codebrasileiro.com.br)**;
 
 - ✌️ I'm looking to collaborate on **anything free and open source**;
@@ -52,13 +50,15 @@
    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979d?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
+> Maybe I forgot something, but... 😇
+
 <h3>Learning</h3>
 <p>
+  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
 </p>
@@ -74,7 +74,7 @@
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
-  <tbody align="center">
+  <tbody>
     <tr>
       <td><a href="https://github.com/mcosta21/starctron"><b>Starctron</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mcosta21/starctron?style=flat-square&labelColor=343b41"/></td>
@@ -85,6 +85,7 @@
   </tbody>
 </table>
 
-<br/>
-<hr/><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21"/>
+
+<hr/>
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21"/>
 
