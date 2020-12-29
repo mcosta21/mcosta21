@@ -12,10 +12,15 @@
 </a>
 
 <a href="mailto:marcioc424@gmail.com">
-  <img align="left" alt="Marcio's Gmail" src="https://img.shields.io/badge/-marcioc424@gmail.com-263238?style=flat-square&labelColor=263238&logo=gmail&logoColor=white&link=mailto:marcioc424@gmail.com" />
+  <img align="left" alt="Marcio's Gmail" height="23px" src="https://img.shields.io/badge/-marcioc424@gmail.com-263238?style=flat-square&labelColor=263238&logo=gmail&logoColor=white&link=mailto:marcioc424@gmail.com" />
 </a>
 
 </div>
+
+<br />
+<br />
+
+I'm just a enthusiast of Full Stack development technologies, and passionate about every web, mobile and embedded systems. 
 
 <br />
 
