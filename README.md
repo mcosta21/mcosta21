@@ -87,9 +87,9 @@
 
 <h3>GitHub Stats</h3>
 <div>
-<img alt="Marcio's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=mcosta21&theme=dracula&show_icons=true&hide_border=true" />
+<img alt="Marcio's github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=mcosta21&theme=dracula&show_icons=true&hide_border=true" />
 
-<img alt="Marcio's github stats" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcosta21&theme=dracula&hide_border=true" />
+<img alt="Marcio's github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcosta21&theme=dracula&hide_border=true" />
 </div>
 
 <hr/>
