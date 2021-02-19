@@ -59,8 +59,6 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 - 📌 I'm currently developing a blog about technologies called **[Code Brasileiro](https://codebrasileiro.com.br)**;
 
-- ✌️ I'm looking to collaborate on **anything free and open source**;
-
 - 🎓 Graduating Computer Engineering;
 
 - 👨‍💻 My best projects are [here](#favorites);
