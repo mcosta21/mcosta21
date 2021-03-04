@@ -68,10 +68,14 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 <h3>Already used</h3>
 
 <p>
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979d?style=flat-square&logo=arduino&logoColor=white" />
+
+  <!--
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -84,12 +88,11 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=000" />
    <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759b?style=flat-square&logo=wordpress&logoColor=white" />
    <img alt="Woo" src="https://img.shields.io/badge/-Woo-96588a?style=flat-square&logo=woo&logoColor=white" />
-   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979d?style=flat-square&logo=arduino&logoColor=white" />
    <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
    <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />
-   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000?style=flat-square&logo=next.js&logoColor=white" />
    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  -->
 </p>
 
 > Maybe I forgot something, but... 😇
@@ -97,13 +100,16 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 <h3>Learning</h3>
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="C Sharp" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <!--
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
+  -->
 </p>
 
 <h3 id="favorites">My best projects</h3>
