@@ -63,7 +63,7 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 - 🎓 Graduating Computer Engineering;
 
-- 💬 Ask me about **Java, Node, JavaScript, React** and **Electron**, maybe I can help you and it'll be a pleasure;
+- 💬 Ask me about **Java, Node, JavaScript, React** and **Electron**, maybe I can help you;
 
 <!--
 - 👨‍💻 My best projects are [here](#favorites);
