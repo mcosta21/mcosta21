@@ -61,9 +61,11 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 - 🎓 Graduating Computer Engineering;
 
-- 👨‍💻 My best projects are [here](#favorites);
-
 - 💬 Ask me about **Java, Node, JavaScript, React** and **Electron**, maybe I can help you and it'll be a pleasure;
+
+<!--
+- 👨‍💻 My best projects are [here](#favorites);
+-->
 
 <h3>Already used</h3>
 
@@ -72,10 +74,11 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979d?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 
   <!--
+<img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -95,8 +98,6 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
   -->
 </p>
 
-> Maybe I forgot something, but... 😇
-
 <h3>Learning</h3>
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -104,7 +105,6 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
   <img alt="C Sharp" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <!--
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -112,6 +112,7 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
   -->
 </p>
 
+<!--
 <h3 id="favorites">My best projects</h3>
 <table>
   <thead align="center">
@@ -154,6 +155,7 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
     </tr>
   </tbody>
 </table>
+-->
 
 <h3>GitHub Stats</h3>
 <div>
@@ -163,4 +165,4 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 </div>
 
 <hr/>
-<small><i>In the file comments has some tips to create your own README.<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21.mcosta21"/></i></small>
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21.mcosta21"/>
