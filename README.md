@@ -79,11 +79,15 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979d?style=flat-square&logo=arduino&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 
-  <!--
+
 <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000?style=flat-square&logo=next.js&logoColor=white" />
+  <!--
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+   <img alt="Woo" src="https://img.shields.io/badge/-Woo-96588a?style=flat-square&logo=woo&logoColor=white" />
+-->
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -92,12 +96,10 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=000" />
    <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759b?style=flat-square&logo=wordpress&logoColor=white" />
-   <img alt="Woo" src="https://img.shields.io/badge/-Woo-96588a?style=flat-square&logo=woo&logoColor=white" />
    <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
    <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />
    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  -->
 </p>
 
 <h3>Learning</h3>
@@ -107,14 +109,12 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
   <img alt="C Sharp" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <!--
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
+  
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  -->
 </p>
 
-<!--
 <h3 id="favorites">My best projects</h3>
 <table>
   <thead align="center">
@@ -157,7 +157,6 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
     </tr>
   </tbody>
 </table>
--->
 
 <h3>GitHub Stats</h3>
 <div>
