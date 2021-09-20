@@ -61,6 +61,8 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 - ✏️ Writing something about technology on **[Code Brasileiro](https://codebrasileiro.com.br)**;
 
+- 🎓 Developing extra projects at **[Connectsoft](https://connectsoft.io)**;
+
 - 🎓 Computer Engineer;
 
 - 💬 Ask me about **Java, C#, Node, TypeScript, React, Angular, Electron** and **Arduino**, maybe I can help you;
