@@ -59,7 +59,7 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 <p>I'm just a enthusiast of Full Stack development technologies, and passionate for every thing about web, mobile and embedded systems.</p>
 
-- ✏️ Writing something about technology on **[Code Brasileiro](https://codebrasileiro.com.br)**;
+- ✏️ Writing something about technology on **[Code Brasileiro](https://codebrasileiro.com)**;
 
 - 🎓 Developing extra projects at **[Connectsoft](https://connectsoft.io)**;
 
