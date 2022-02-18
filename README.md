@@ -40,7 +40,6 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 <img align="center" src="https://github.com/mcosta21/mcosta21/blob/main/banner-pt-en.gif?raw=true">
 -->
 
-<div align="center">
 <a href="https://www.linkedin.com/in/mcosta21/">
   <img align="left" alt="Marcio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -48,10 +47,11 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 <a href="mailto:marcioc424@gmail.com">
   <img align="left" alt="Marcio's Gmail" height="25px" src="https://img.shields.io/badge/-marcioc424@gmail.com-263238?style=flat-square&labelColor=263238&logo=gmail&logoColor=white&link=mailto:marcioc424@gmail.com" />
 </a>
-<br/>
-</div>
 
 <br/>
+<br/>
+
+<img width="400" src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1" />
 
 <p>I'm just a enthusiast of Full Stack development technologies, and passionate for every thing about web, mobile and embedded systems.</p>
 
