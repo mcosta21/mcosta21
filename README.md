@@ -35,7 +35,6 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 -->
 
-<br />
 <!--
 <img align="center" src="https://github.com/mcosta21/mcosta21/blob/main/banner-pt-en.gif?raw=true">
 -->
