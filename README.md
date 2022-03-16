@@ -50,7 +50,9 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 <br/>
 <br/>
 
+<!--
 <img width="400" src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1" />
+-->
 
 <p>I'm just a enthusiast of Full Stack development technologies, and passionate for every thing about web, mobile and embedded systems.</p>
 
@@ -60,13 +62,11 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 - 🎓 Computer Engineer;
 
-- 💬 Ask me about **Java, C#, Node, TypeScript, React, Angular, Electron** and **Arduino**, maybe I can help you;
-
 <!--
 - 👨‍💻 My best projects are [here](#favorites);
 -->
 
-<h3>In my blood</h3>
+
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
