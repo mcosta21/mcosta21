@@ -54,7 +54,7 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 <img width="400" src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1" />
 -->
 
-<p>I'm just a enthusiast of Full Stack development technologies, and passionate for every thing about web, mobile and embedded systems.</p>
+<p>I'm just a dev...</p>
 
 - ✏️ Writing something about technology in **[Code Brasileiro](https://codebrasileiro.com)**;
 
