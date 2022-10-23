@@ -62,6 +62,8 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 - 🎓 Studied Computer Engineering;
 
+<br />
+
 <!--
 - 👨‍💻 My best projects are [here](#favorites);
 -->
