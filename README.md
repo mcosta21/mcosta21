@@ -54,13 +54,13 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 <img width="400" src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1" />
 -->
 
-<p>I'm just a dev...</p>
+<p>I'm just a developer who:</p>
 
-- ✏️ Writing something about technology in **[Code Brasileiro](https://codebrasileiro.com)**;
+- ✏️ Write something about technology in **[Code Brasileiro](https://codebrasileiro.com)**;
 
-- 🚀 Developing extra projects at **[Connectsoft](https://connectsoft.app)**;
+- 🚀 Develop extra projects at **[Connectsoft](https://connectsoft.app)**;
 
-- 🎓 Computer Engineer;
+- 🎓 Studied Computer Engineering;
 
 <!--
 - 👨‍💻 My best projects are [here](#favorites);
