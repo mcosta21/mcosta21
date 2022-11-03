@@ -56,19 +56,20 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 <p>I'm just a developer who:</p>
 
+- ⭐ My newest project about learning with questionnaires, check it out: **[Letz Learn](https://letzlearn.me)**;
+
 - ✏️ Write something about technology in **[Code Brasileiro](https://codebrasileiro.com)**;
 
 - 🚀 Develop extra projects at **[Connectsoft](https://connectsoft.app)**;
 
 - 🎓 Studied Computer Engineering;
 
+
 <br />
 
 <!--
 - 👨‍💻 My best projects are [here](#favorites);
 -->
-
-
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
