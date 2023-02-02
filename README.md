@@ -58,7 +58,7 @@ Repository: <small>https://github.com/abhisheknaiidu/awesome-github-profile-read
 
 - ⭐ My newest project about learning with questionnaires, check it out: **[Letz Learn](https://letzlearn.me)**;
 
-- ✏️ Write something about technology in **[Code Brasileiro](https://codebrasileiro.com)**;
+- ✏️ Write something about technology in **[Code Brasileiro](https://www.instagram.com/codebrasileiro/)**;
 
 - 🚀 Develop extra projects at **[Connectsoft](https://connectsoft.app)**;
 
