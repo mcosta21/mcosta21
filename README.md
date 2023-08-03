@@ -1,9 +1,5 @@
 <a href="https://www.linkedin.com/in/mcosta21/">
-  <img align="left" alt="Marcio's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="mailto:marcioc424@gmail.com">
-  <img align="left" alt="Marcio's Gmail" height="25px" src="https://img.shields.io/badge/-marcioc424@gmail.com-263238?style=flat-square&labelColor=263238&logo=gmail&logoColor=white&link=mailto:marcioc424@gmail.com" />
+  <img align="left" alt="Marcio's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 
 <br/>
