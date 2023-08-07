@@ -51,13 +51,15 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   
 </div>
-
+<!--
 <h3>GitHub Stats</h3>
 <div>
 <img alt="Marcio's github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=mcosta21&theme=dracula&show_icons=true&hide_border=true" />
-
+-->
+<!--
 <img alt="Marcio's github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcosta21&theme=dracula&hide_border=true" />
 </div>
+-->
 <!--
 <hr/>
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21.mcosta21"/>
