@@ -14,15 +14,17 @@
   <a href="https://easyrestaurant.com.br">
     <img alt="EasyRestaurant" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/easyrestaurant.png" />
   </a>
-  <a href="https://letzlearn.me">
+  <a href="https://learn-cert-web-lac.vercel.app/">
     <img alt="Letz Learn" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/letzlearn.png" />
   </a>
   <a href="https://codebrasileiro.com">
     <img alt="Code Brasileiro" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/codebrasileiro.png" />
   </a>
+  <!--
   <a href="https://connectsoft.app">
     <img alt="ConnectSoft" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/connectsoft.png" />
   </a>
+  -->
 </div>
 
 <h3>🧑‍💻 I'm working with </h3>
