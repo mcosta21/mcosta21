@@ -11,6 +11,9 @@
 <h3>🌟 My best projects </h3>
 
 <div>
+  <a href="https://gootrip.app">
+    <img alt="EasyRestaurant" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/gootrip.png" />
+  </a>
   <a href="https://easyrestaurant.com.br">
     <img alt="EasyRestaurant" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/easyrestaurant.png" />
   </a>
