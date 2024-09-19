@@ -14,8 +14,8 @@
   <a href="https://gootrip.app">
     <img alt="EasyRestaurant" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/gootrip.png" />
   </a>
-  <a href="https://easyrestaurant.com.br">
-    <img alt="EasyRestaurant" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/easyrestaurant.png" />
+  <a href="https://ezyapp.com.br">
+    <img alt="EzyApp" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/easyrestaurant.png" />
   </a>
   <a href="https://learn-cert-web-lac.vercel.app/">
     <img alt="Letz Learn" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/letzlearn.png" />
