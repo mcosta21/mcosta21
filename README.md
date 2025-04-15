@@ -1,5 +1,9 @@
 <a href="https://www.linkedin.com/in/mcosta21/">
-  <img align="left" alt="Marcio's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+  <img align="left" alt="Marcio's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" />
+</a>
+
+<a href="https://mcosta.dev">
+  <img align="left" alt="Marcio's Website" width="25px" src="https://cdn-icons-png.freepik.com/512/8743/8743996.png" />
 </a>
 
 <br/>
