@@ -15,21 +15,22 @@
 <h3>🌟 My best projects </h3>
 
 <div>
+  <a href="https://luupsoftware.com">
+    <img alt="Luup Software" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/luupsoftware.png" />
+  </a>
   <a href="https://gootrip.app">
-    <img alt="EasyRestaurant" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/gootrip.png" />
+    <img alt="Gootrip" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/gootrip.png" />
   </a>
   <a href="https://ezyapp.com.br">
-    <img alt="EzyApp" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/easyrestaurant.png" />
+    <img alt="EzyApp" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/ezyapp.png" />
   </a>
+  <!--
+  
   <a href="https://learn-cert-web-lac.vercel.app/">
     <img alt="Letz Learn" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/letzlearn.png" />
   </a>
   <a href="https://codebrasileiro.com">
     <img alt="Code Brasileiro" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/codebrasileiro.png" />
-  </a>
-  <!--
-  <a href="https://connectsoft.app">
-    <img alt="ConnectSoft" width="150px" src="https://github.com/mcosta21/mcosta21/blob/main/connectsoft.png" />
   </a>
   -->
 </div>
